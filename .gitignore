@@ -1,2 +1,6 @@
-tun2socks-darwin-arm64
+tun2socks-darwin-*
 tunnel.json
+
+# OS
+.DS_Store
+Thumbs.db
